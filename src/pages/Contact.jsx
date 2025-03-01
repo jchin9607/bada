@@ -10,8 +10,7 @@ const Contact = () => {
       id: 0,
       name: "Thomas Borkowski, Founder",
       sport: "Soccer",
-      image:
-        "https://lh6.googleusercontent.com/0-QRW6jOBZPgXpGd6sgld0yXD8u2JCW13lHExN9iu2ytxCp-Yq8r_BlrQR0JGOoNtwC3MM8APe1ZBHQIq2RG3bsIYJ7XLFfYhVAAZ9riN9o7697ERuVdAlbMASaQr2Og0w=w1280",
+      image: "tz.jpg",
       acc: [
         "Class of 2025 (12th Grade)",
         "9 years of Club - GPS NPL White --> Juventus Academy Boston EDS --> FC Stars ECRL",
@@ -24,8 +23,7 @@ const Contact = () => {
       id: 1,
       name: "Royce Pang, Founder",
       sport: "Basketball",
-      image:
-        "https://lh3.googleusercontent.com/nhDo5u51_ojUtmQhDfJveRJXKxkAkv9M-Ng8nVEXvaY_6UCwZtB-o6Ns6qih3YY3Ujap_BKuSm2WLE-gLdidw2rcSeEbULFE0FQ60cWEnUI1yane5zN0otY1crYOVLst0w=w1280",
+      image: "rp.jpg",
       acc: [
         "Class of 2025 (12th Grade)",
         "Boys JV Basketball,  AAU: ASA Hoops",
@@ -38,8 +36,7 @@ const Contact = () => {
       id: 2,
       name: "Sophia Pang, Founder",
       sport: "Basketball",
-      image:
-        "https://lh4.googleusercontent.com/ZwH29bwhvfHGITLg1gRBnkrQn15gWZlhT03YFqKhtI23W4MWPYE3awSvcf_YwnuIart5cldpD7hlHsJRWU5VydLPT6YJmpzdhxr2N0Lp-kYclI1l1J9wqDtYDUx0TsQ7Zw=w1280",
+      image: "sp.jpg",
       acc: [
         "Class of 2026 (11th Grade)",
         "Varsity Basketball, AAU - Huskies ",
@@ -52,8 +49,7 @@ const Contact = () => {
       id: 3,
       name: "Eddie Lech",
       sport: "Basketball",
-      image:
-        "https://lh3.googleusercontent.com/AD8bO5OZQwHs5yeiddfLjNU_u3nVlL2dXw-DVkGUKAU3cP8IMSgeUDKZR106YKNL-8c5aQ5ccQy7jECMLuxSSm70eIYq4-1UDuO4aZLoh98VHSbyqITCNu2ggt_MUXulZg=w1280",
+      image: "edward.jpg",
       acc: [
         "Class of 2025 (12th Grade)",
         "Boys JV Basketball Captain (2023-24) ",
@@ -66,8 +62,7 @@ const Contact = () => {
       id: 4,
       name: "Jaden Yan",
       sport: "Soccer",
-      image:
-        "https://lh4.googleusercontent.com/eGcItvqrMj3mYGZVEKgwKDfVA9FRoE6ctTmThs-kChkgzZp-5nyELDTODdbl06aKeX84njXrL_2niUFXjdm7U4oXsfO2yWS-3nwnZC7clbVAAo2lrt7uyRyZ003Gjld3zQ=w1280",
+      image: "jy.jpg",
       acc: [
         "Class of 2027 (10th Grade)",
         "Soccer Coach- Midfield, attacking and defensive",
@@ -82,8 +77,7 @@ const Contact = () => {
       id: 5,
       name: "Maya Bernbeck",
       sport: "Soccer",
-      image:
-        "https://lh6.googleusercontent.com/qtoNyVajdiPxxnvVPKMNRLnZdWCf0DPBiGDToQSuOymfHoGifX1mtMCMdjLUXeV1K01qPkryCpukcLpDMZJ0G1JGjhckIsdFtdM6ynrgMRkz1k8nwqdtewQXHq1nGrQJYg=w1280",
+      image: "mb.jpg",
       acc: [
         "Class of 2026 (11th Grade)",
         "Outside Back and Center Defensive Mid",
@@ -96,8 +90,7 @@ const Contact = () => {
       id: 6,
       name: "Daniel Chang",
       sport: "Soccer",
-      image:
-        "https://lh4.googleusercontent.com/e0QDE983tKzfNOM12r4FHOxTQ3Jk974KUEJOFouszyIKbxgsZe20mvVGkIqY86XndKPvgngD77LitzR0BS5XcJAIqwMs0xzwNgSY6J9lsmOy-MKxyw-jMnn5Y195cCJPsA=w1280",
+      image: "danielchang.png",
       acc: [
         "Class of 2026 (11th Grade)",
         "BHS Boys Varsity Soccer ",
@@ -111,8 +104,7 @@ const Contact = () => {
       id: 7,
       name: "Esther Ji",
       sport: "Volleyball",
-      image:
-        "https://lh3.googleusercontent.com/hVbJqAYIQriOSPqQJeXKBEeVia5r33uXJZ4B10LrnNO5wK2JD5Xbyekd8mfund0MPSe4-OAVvkAk_gVzZ7c50n0hl9WZ2hjRAZdTyCWVj0ckzIsli0bnqSz5Ri6wKuFFZA=w1280",
+      image: "esther.jpg",
       acc: [
         "Class of 2026 (11th Grade)",
         "Position: Setter/DS ",
@@ -126,8 +118,7 @@ const Contact = () => {
       id: 8,
       name: "Sophia Qin",
       sport: "Volleyball",
-      image:
-        "https://lh5.googleusercontent.com/_fhpTx9TFwwhuNfU5Bd4CYwEBcZt9ycp6V6tUl6ylzbYC74_1cIILUNHxX1EyOSEE7EPHxth-z6kJxE8iJEa0z-K5MOKQAXiYZNV7VHHcxJRuweb1Zw47se28ORf1oX8kA=w1280",
+      image: "sq.jpeg",
       acc: [
         "Class of 2026 (11th Grade)",
         "Position: Setter ",
@@ -141,8 +132,7 @@ const Contact = () => {
       id: 9,
       name: "Lillian Shen",
       sport: "Volleyball",
-      image:
-        "https://lh3.googleusercontent.com/uM2_mXVeNN1tPRFFgGMCsIBHdWfJRyxNHHui6hpX36I6GjlJdivOePounAaPe92DHssXdbcyFzTHj6gSUV_7WEvhpgfcwv6G7PFTdG_RmJ19q8miB6RKcQlObs30XWxHkw=w1280",
+      image: "ls.JPG",
       acc: [
         "Class of 2026 (11th Grade)",
         "Position: Outside ",
@@ -170,8 +160,7 @@ const Contact = () => {
       id: 11,
       name: "Julian Wong",
       sport: "Tennis",
-      image:
-        "https://lh6.googleusercontent.com/-zdyS7DTEqgSxFSiMJJfuMaa-L84cgxfXrdKIDpuZJDQbvUBaLfOlqDCdmYFiNnY2p0ynb6kJym3tT_mHLZ8YHDfBzYT6wnoj_aya-srmMo5gIUPLRWfHM4396ZTMEkiCw=w1280",
+      image: "jw.JPG",
       acc: [
         "Class of 2025 (12th Grade)",
         "Captain of Belmont Boys Varsity Tennis",
@@ -186,8 +175,7 @@ const Contact = () => {
       id: 12,
       name: "Mingfei Ye",
       sport: "Tennis",
-      image:
-        "https://lh3.googleusercontent.com/nr2nF4z9eDMS0NmxC3ALnwQ6ZS-2pdDR88m2ZPcgXOHeIUQVdIA-nzGtzIv-PNjWq3MrSsxlRcSPK2KX8dRCzoSjwWE4fQLAHKHAySFVX-zFiEnGEnDhzO_gxzatLN0=w1280",
+      image: "my.png",
       acc: [
         "Class of 2026 (11th Grade)",
         "BHS Boys Varsity Tennis",
