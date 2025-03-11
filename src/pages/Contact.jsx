@@ -43,7 +43,7 @@ const Contact = () => {
         "Mt Rushmore Nominee (2021) ",
         "BYBA In-town Coach (2023 - present) ",
       ],
-      desc: "My name is Royce Pang and I have been playing basketball for 10 years already. I have been playing MetroWest for my middle school years, as well as AAU in the off seasons. Over the past 5 years, I have been private coached, which helped me improve my skills drastically throughout the years. Because of this, I want to help out the youth athletes that want to pursue basketball in high school. Under my coaching, I will pass on my skills that I learned over the years and these young athletes will surpass their previous goals. ",
+      desc: "My name is Sophia Pang and I have played basketball since 3rd grade. I started out by playing on an in-town team in 3rd grade and then progressed to travel basketball throughout middle school. During travel basketball, my team won two Division 2 state championships in a total of four seasons, and we have also made it to at least the semi-finals every year. I have also been on a number of AAU teams including Huskies, EVO, and Middlesex Magic. In addition, I have been privately trained before which helped me progress my skills to the next level. As a coach, I hope to share what I learned throughout my career and help young athletes improve their skills and take their game to the next level.",
     },
     {
       id: 3,
