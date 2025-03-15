@@ -27,9 +27,9 @@ const Home = () => {
         rounded-md"
           >
             <img
-              src="ianchoi.JPG"
-              alt="Ian Choi Setting"
-              className="w-full h-[500px] object-cover object-top rounded-md"
+              src="edward.jpg"
+              alt="Edward Lech photo"
+              className="w-full h-[500px] object-cover rounded-md object-[50%_30%]"
             />
           </aside>
           <div className="w-full md:w-1/2 flex flex-col gap-6 bg-red-300 rounded-md text-white p-[10%] sm:p-[5%] min-h-full">

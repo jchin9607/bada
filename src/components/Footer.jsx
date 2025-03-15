@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="h-[50px] w-full flex justify-center items-center">
       <ul className="flex gap-2">
         <li className="h-full p-2">
-          <a href="belmontadainfo@gmail.com" target="_blank">
+          <a href="mailto:belmontadainfo@gmail.com" target="_blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
