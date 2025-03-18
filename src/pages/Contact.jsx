@@ -186,11 +186,20 @@ const Contact = () => {
     {
       id: 13,
       name: "Katia Polina ",
-      sport: "Tennis",
-      image:
-        "https://wallpapers.com/images/hd/basic-default-pfp-pxi77qv5o0zuz8j3.jpg",
-      acc: ["Class of 2027 (10th Grade)", "BHS Girls Tennis Team "],
-      desc: "Hello my name is Katia Polina! I have been playing tennis since middle school, and was on the BHS Girls Tennis Team. I love this sport and I love training during the off season through different coaches and clinics. I have tutored younger kids before in many fields and I love it! As a coach I'm excited to help younger kids learn about this sport and help them get stronger and more advanced! ",
+      sport: "Volleyball",
+      image: "kap.jpeg",
+      acc: [
+        "Class of 2027 (10th Grade)",
+        "Position: Setter/RS ",
+        "Varsity Volleyball (2023 - Present)",
+        "Freshman starter as a right side (2023)",
+        "Sophmore starter as a middle (2024)",
+        "Club Volleyball (2022 - Present)",
+        "CMASS Edge 14 Blue (2022-23)",
+        "CMASS Edge 15 Blue (2023-24)",
+        "CMASS Edge 16 Blue (2024-25)",
+      ],
+      desc: "Hello my name is Katia Polina! I have been playing volleyball for around 3 years, becoming a varsity starter as a freshman. I have been coached by many great coaches, all of whom have taught me a lot about this sport. My passion for volleyball has led me to improve, work hard, and have many great experiences (Including winning Middelsex League for the first time in BHS history). This sport holds a key part of me, and I hope to share my love for this sport with younger players aspiring to become a volleyball player!",
     },
     {
       id: 14,

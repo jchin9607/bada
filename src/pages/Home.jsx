@@ -57,20 +57,37 @@ const Home = () => {
           <div className="w-full md:w-1/2 flex flex-col gap-6 bg-purple-300 rounded-md text-white p-[10%] sm:p-[5%] min-h-full">
             <h1 className="text-4xl font-bold">Process</h1>
             <p className="text-lg">
-              1. Find a coach from the Contact Us section who you think pairs
-              well with your child. 2. Fill out the Google Form to choose who
-              you want to pair up with. Choose the sport you want to participate
-              in and then choose the coach. 3. After that, we will email you
-              about the coach and we will start arranging practice times and
-              payment with coaches. 4. Please know that we do not coach during
-              the winter season. We will continue coaching starting March 2025.
+              <ol>
+                <li>
+                  1. Fill out the form asking which sport and how many lessons
+                  (1-8 lessons)
+                </li>{" "}
+                <li>
+                  2. BADA will reach out by email to help you find a coach and
+                  set you up
+                </li>{" "}
+                <li>
+                  3. BADA will be the middle communicator when it comes to
+                  lesson times, locations, and payment
+                </li>{" "}
+                <li>
+                  4. After BADA confirms lesson times and locations, please
+                  deliver your liability forms to the coach at the lesson, then
+                  enjoy your private training!
+                </li>{" "}
+                <li>
+                  5. Any immediate notices (rain, wind, etc.), BADA will email
+                  or text you directly. If you have any urgent emergencies,
+                  please email or text the number 781-999-4314 to let BADA know.
+                </li>
+              </ol>
             </p>
           </div>
           <aside className="w-full md:w-1/2  rounded-md flex justify-center items-center">
             <img
               src="danielchang.png"
               alt="DC Kicking soccer ball"
-              className="w-full h-[500px] object-cover object-top rounded-md"
+              className="w-full max-h-[600px] object-cover object-top rounded-md"
             />
           </aside>
         </article>
